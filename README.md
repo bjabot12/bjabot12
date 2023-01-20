@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bjabot12
 - 👀 I’m interested in Data Science, Coding and Tech in general.
-- 🌱 I’m currently learning Data Engineering on Azure amd Competitive Programming.
+- 🌱 I’m currently learning Data Engineering on Azure and Snowflake.
 - 📫 [Link](https://www.linkedin.com/in/bjarte-botnevik-336a7317b/) to my LinkedIn profile.
 
 <!---
