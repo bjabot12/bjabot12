@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @bjabot12
 - 👀 I’m interested in Data Engineering, Coding and Tech in general.
-- 🌱 I’m currently learning Data Engineering on Azure and Snowflake.
+- 🌱 I’m currently learning Go and NeoVim.
+
+- Keyboards: Currently using corne keyboards. For work I have a MX Cherry Corne with silent linear switches, and at home I have a low-profile corne with choc linear switches.
+
 - 📫 [Link](https://www.linkedin.com/in/bjarte-botnevik-336a7317b/) to my LinkedIn profile.
 
 <!---
